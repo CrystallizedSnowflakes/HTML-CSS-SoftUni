@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+div {
+    border: 3px;
+    padding: 10px;
+    border-radius:10px;
+}
+#outside{
+    border-style: dotted;
+    border-color: blue;
+    width: 200px;
+}
+#middle{
+    border-style: dashed;
+    border-color: red;
+}
+#inner{
+    border-style: solid;
+    border-color: green;
+ }

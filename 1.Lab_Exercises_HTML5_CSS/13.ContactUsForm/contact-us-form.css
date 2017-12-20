@@ -1,0 +1,22 @@
+form{
+    background: #eee;
+    display: inline-block;
+    padding-right: 10px;
+}
+form span{
+    display: inline-block;
+    width: 80px;
+    background: #eee;
+    margin: 10px 3px 3px 8px;
+}
+div{
+    text-align: center;
+    padding:10px 0px;
+}
+input,select{
+    width: 150px;
+    box-sizing: border-box;
+}
+.btn{
+    width: 73px;
+}
